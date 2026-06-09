@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=tarihcituranx&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer+%7C+Open+Source+Advocate&descSize=17&descAlignY=58&descColor=f0f0ff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=tarihcituranx&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Historian+%7C+Developer+%7C+Open+Source+Advocate&descSize=17&descAlignY=58&descColor=f0f0ff"/>
   <br/>
   <img src="https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7-Made%20in%20T%C3%BCrkiye-red?style=flat-square&logo=github&logoColor=white" alt="Made in Türkiye 🇹🇷" />
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Advocate+for+Free+Software+%F0%9F%A4%9D;Proudly+from+Beautiful+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7;Transit+%26+Network+Tech+%F0%9F%9A%8C" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Historian+%26+Researcher+%F0%9F%93%9C;Software+Developer+%F0%9F%92%BB;Advocate+for+Free+Software+%F0%9F%A4%9D;Proudly+from+Beautiful+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7;Transit+%26+Network+Tech+%F0%9F%9A%8C" alt="Typing SVG"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=tarihcituranx&color=764ba2&style=flat-square&label=Profile+Views"/>
@@ -118,7 +118,7 @@
   <br/><br/>
   <p align="center">
     🇹🇷 &nbsp;<i>I voluntarily contribute to the <b>3x-ui</b> and <b>EasyEffects</b> projects by providing <b>Turkish language support and translations</b>.<br/>
-    Many thanks to <a href="https://github.com/MHSanaei">@MHSanaei</a>, <a href="https://github.com/wwmm">@wwmm</a>, and all the contributors for sharing this valuable tool with the open-source world!</i> 🙌
+    Many thanks to <a href="https://github.com/MHSanaei">@MHSanaei</a>, <a href="https://github.com/wwmm">@wwmm</a>, and all the contributors for sharing these valuable tools with the open-source world!</i> 🙌
   </p>
   <br/>
   <a href="https://github.com/MHSanaei/3x-ui/pulls?q=is%3Apr+author%3Atarihcituranx">
