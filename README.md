@@ -16,6 +16,17 @@
 <br/>
 
 <div align="center">
+  <a href="https://x.com/turanka1919" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/tarihcituranx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+<br/>
+
+<div align="center">
   <details>
     <summary><b>📖 Click to Read My Biography (English)</b></summary>
     <br>
@@ -92,6 +103,13 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=Samsun-GTFS-RT&theme=tokyonight&hide_border=true">
       <img alt="Samsun GTFS-RT Project" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=Samsun-GTFS-RT&theme=catppuccin_latte&hide_border=true">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tarihcituranx/mintsky">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=mintsky&theme=tokyonight&hide_border=true">
+      <img alt="Mintsky Project" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=mintsky&theme=catppuccin_latte&hide_border=true">
     </picture>
   </a>
 </div>
