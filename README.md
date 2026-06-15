@@ -112,6 +112,13 @@
       <img alt="Mintsky Project" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=mintsky&theme=catppuccin_latte&hide_border=true">
     </picture>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tarihcituranx/s-nav">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=s-nav&theme=tokyonight&hide_border=true">
+      <img alt="s-nav Project" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=s-nav&theme=catppuccin_latte&hide_border=true">
+    </picture>
+  </a>
 </div>
 <br/>
 
