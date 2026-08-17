@@ -119,6 +119,13 @@
       <img alt="s-nav Project" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=s-nav&theme=catppuccin_latte&hide_border=true">
     </picture>
   </a>
+  <br/><br/>
+  <a href="https://github.com/tarihcituranx/TVChanneleditor">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=TVChanneleditor&theme=tokyonight&hide_border=true">
+      <img alt="TVChanneleditor Project" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tarihcituranx&repo=TVChanneleditor&theme=catppuccin_latte&hide_border=true">
+    </picture>
+  </a>
 </div>
 <br/>
 
